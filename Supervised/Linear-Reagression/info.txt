@@ -1,0 +1,10 @@
+Datasets
+
+Automobile_data
+Ref: https://www.kaggle.com/mediasittich/linear-regression-for-car-price-prediction/data
+
+CarPrice_Assignment
+Ref: https://www.kaggle.com/goyalshalini93/car-price-prediction-linear-regression-rfe/data
+
+Online dataset from Toyota 
+https://raw.githubusercontent.com/datailluminations/PredictingToyotaPricesBlog/master/ToyotaCorolla.csv
