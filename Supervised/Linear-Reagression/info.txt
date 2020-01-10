@@ -1,10 +1,22 @@
 Datasets
 
 Automobile_data
+Context
+This dataset consist of data From 1985 Ward's Automotive Yearbook. Here are the sources
+
+Sources:
+
+1) 1985 Model Import Car and Truck Specifications, 1985 Ward's Automotive Yearbook. 2) Personal Auto Manuals, Insurance Services Office, 160 Water Street, New York, NY 10038 3) Insurance Collision Report, Insurance Institute for Highway Safety, Watergate 600, Washington, DC 20037
 Ref: https://www.kaggle.com/mediasittich/linear-regression-for-car-price-prediction/data
 
 CarPrice_Assignment
 Ref: https://www.kaggle.com/goyalshalini93/car-price-prediction-linear-regression-rfe/data
 
 Online dataset from Toyota 
-https://raw.githubusercontent.com/datailluminations/PredictingToyotaPricesBlog/master/ToyotaCorolla.csv
+Ref: https://raw.githubusercontent.com/datailluminations/PredictingToyotaPricesBlog/master/ToyotaCorolla.csv
+
+Old but good
+Ref: https://archive.ics.uci.edu/ml/datasets/automobile
+
+Another old but good
+Ref: https://archive.ics.uci.edu/ml/datasets/car+evaluation 
